@@ -184,6 +184,6 @@ li.edit-mode input[type=text] {
     width: 224px
 }
 
-li.edit-mode label {
+.edit-mode label {
     display: none;
 }
