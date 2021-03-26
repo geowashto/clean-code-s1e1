@@ -115,7 +115,7 @@ input[type="text"]:focus {
     width: 318px;
 }
 
-p>button:hover {
+section>button:hover {
     color: #0FC57C;
 }
 
